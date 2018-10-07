@@ -1,0 +1,22 @@
+{
+  "name": "mylib",
+  "version": "1.0.0",
+  "description": "一个自己的小库，用来实现一些插件等等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccjustcc/mylib.git"
+  },
+  "author": "cjt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccjustcc/mylib/issues"
+  },
+  "homepage": "https://github.com/ccjustcc/mylib#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
